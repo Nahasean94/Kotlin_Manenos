@@ -21,4 +21,4 @@ plugins {
 include(":app")
 include(":utils")
 
-rootProject.name = "Practice_Problems"
+rootProject.name = "Kotlin_Manenos"

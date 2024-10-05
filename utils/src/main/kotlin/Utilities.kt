@@ -1,4 +1,4 @@
-package com.carpree.utils
+package com.kotlin_manenos.utils
 
 import kotlinx.datetime.*
 import kotlinx.serialization.Serializable
